@@ -35,19 +35,6 @@ struct ContentView: View {
                 }
             }
 
-            
-//            NavigationLink("About me") {
-//                DetailView()
-//            }
-//
-//            NavigationLink("Powers and Abilites") {
-//                DetailView()
-//            }
-//
-//            NavigationLink("The Z Fighters") {
-//                DetailView()
-//            }
-            
         }
         .padding()
         .navigationTitle("Goku")
