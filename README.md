@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *My Story*
 
-Submitted by: **Your Name Here**
+Submitted by: **Derrick Garcon**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**My story** is an app that introduces ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -43,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Derrick Garcon]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
