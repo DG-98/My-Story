@@ -1,8 +1,8 @@
-# Project 1 - *My Story*
+# Project 1 - *Goku's Story*
 
 Submitted by: **Derrick Garcon**
 
-**My story** is an app that introduces ... [TODO] 
+**Goku's Story* is an app that introduces ... [TODO] 
 
 Time spent: **8** hours spent in total
 
@@ -28,22 +28,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src=https://user-images.githubusercontent.com/85405879/225814325-7ae87bae-ae38-4b8e-8d48-5ca26ac23670.gif width='300'/><br> <img src=https://user-images.githubusercontent.com/85405879/225816046-ad0f9a0d-0eb4-439f-b964-77185e02b445.gif height='200'/><br> 
 
 
-![Uploading Kapture 2023-03-17 at 00.30.17.gif…]()
 
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with Kapture  
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first project using SwiftUI so I ran into some trouble wrapping my head around some aspects. The biggest hurdles were getting the details to show in a different view and styling so the image and text fit on the screen in portrait and landscape.
 
 ## License
 
