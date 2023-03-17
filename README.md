@@ -28,7 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Kapture 2023-03-17 at 00 30 17](https://user-images.githubusercontent.com/85405879/225813072-a07c1003-e012-4acd-8495-8de684feda81.gif)' />
+
+
+![Uploading Kapture 2023-03-17 at 00.30.17.gif…]()
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
